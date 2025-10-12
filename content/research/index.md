@@ -10,7 +10,7 @@ sections:
       title: '<span style="color: white;">Research Overview</span>'
       subtitle: ''
       text: |
-        <div style="background: rgba(0,0,0,0.5); padding: 5px 10px; border-radius: 8px;"> Much of our work focuses on developing chemistry-aware AI systems for electrochemical processes, moving beyond black-box approaches toward mechanism-informed, predictive workflows. Our long-term goal is to enable AI scientists as collaborative partners in accelerating solutions to global energy and environmental challenges.</div>
+        <div style="background: rgba(0,0,0,0.5); padding: 5px 10px; border-radius: 8px; text-align: center;"> Much of our work focuses on developing chemistry-aware AI systems for electrochemical processes, moving beyond black-box approaches toward mechanism-informed, predictive workflows. Our long-term goal is to enable AI scientists as collaborative partners in accelerating solutions to global energy and environmental challenges.</div>
     design:
       columns: '1'
       background:
@@ -134,6 +134,7 @@ sections:
         .research-text p {
           font-size: 16px;
           line-height: 1.6;
+          text-align: justify;
         }
 
         @media (max-width: 768px) {

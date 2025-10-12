@@ -11,9 +11,11 @@ sections:
       text: |
         <h3 style="text-align: center;">Undergraduates & Prospective Students</h3>
 
-        Interested undergraduates and prospective Ph.D. students are welcome to email Shi Xuan ([shixuan.leong@ntu.edu.sg](mailto:shixuan.leong@ntu.edu.sg)).    
-
-        **See also:** [NTU main page](https://www.ntu.edu.sg/) | [CCEB main page](https://www.ntu.edu.sg/cceb) | [NPGS](https://www.ntu.edu.sg/admissions/graduate/financialmatters/scholarships/npgs) | [NTU Research Scholarship](https://www.ntu.edu.sg/nie/admissions/graduate-education/scholarships-awards/nanyang-technological-university-research-scholarship) | [SINGA](https://www.a-star.edu.sg/Scholarships/for-graduate-studies/singapore-international-graduate-award-singa) | [A*STAR Graduate Scholarship](https://www.a-star.edu.sg/Scholarships/for-graduate-studies/a-star-graduate-scholarship-singapore)
+        <div style="text-align: justify;">
+        Interested undergraduates and prospective Ph.D. students are welcome to email Shi Xuan (<a href="mailto:shixuan.leong@ntu.edu.sg">shixuan.leong@ntu.edu.sg</a>).
+        
+        <br><strong>See also:</strong> <a href="https://www.ntu.edu.sg/">NTU main page</a> | <a href="https://www.ntu.edu.sg/cceb">CCEB main page</a> | <a href="https://www.ntu.edu.sg/admissions/graduate/financialmatters/scholarships/npgs">NPGS</a> | <a href="https://www.ntu.edu.sg/nie/admissions/graduate-education/scholarships-awards/nanyang-technological-university-research-scholarship">NTU Research Scholarship</a> | <a href="https://www.a-star.edu.sg/Scholarships/for-graduate-studies/singapore-international-graduate-award-singa">SINGA</a> | <a href="https://www.a-star.edu.sg/Scholarships/for-graduate-studies/a-star-graduate-scholarship-singapore">A*STAR Graduate Scholarship</a>
+        </div>
     design:
       columns: '1'
       spacing:
@@ -24,10 +26,12 @@ sections:
       title: ''
       text: |
         <h3 style="text-align: center;">Postdoc Candidates</h3>
-        
-        Postdoc candidates with expertise in organic electrosynthesis, electrocatalysis, artificial intelligence and/or laboratory automation are welcome to email Shi Xuan directly with a CV ([shixuan.leong@ntu.edu.sg](mailto:shixuan.leong@ntu.edu.sg)).
 
-        **See also:** [LKY PDF](https://www.ntu.edu.sg/research/research-careers/lee-kuan-yew-postdoctoral-fellowship-(lkypdf)) | [NTU PPF](https://www.ntu.edu.sg/research/research-careers/presidential-postdoctoral-fellowship-(ppf)) | [The Eric and Wendy Schmidt AI in Science Postdoctoral Fellowship](https://www.ntu.edu.sg/research/research-careers/the-eric-and-wendy-schmidt-ai-in-science-postdoctoral-fellowship)
+        <div style="text-align: justify;">
+        Postdoc candidates with expertise in organic electrosynthesis, electrocatalysis, artificial intelligence and/or laboratory automation are welcome to email Shi Xuan directly with a CV (<a href="mailto:shixuan.leong@ntu.edu.sg">shixuan.leong@ntu.edu.sg</a>).
+
+        <br><strong>See also:</strong> <a href="https://www.ntu.edu.sg/research/research-careers/lee-kuan-yew-postdoctoral-fellowship-(lkypdf)">LKY PDF</a> | <a href="https://www.ntu.edu.sg/research/research-careers/presidential-postdoctoral-fellowship-(ppf)">NTU PPF</a> | <a href="https://www.ntu.edu.sg/research/research-careers/the-eric-and-wendy-schmidt-ai-in-science-postdoctoral-fellowship">The Eric and Wendy Schmidt AI in Science Postdoctoral Fellowship</a>
+        </div>
     design:
       columns: '1'
       spacing:

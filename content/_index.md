@@ -8,12 +8,12 @@ sections:
   - block: hero
     content:
       title: |
-         LEONG Research Group
+         <div style="text-align: center;">LEONG Research Group</div>
       image:
         filename: welcome.jpg
       text: |
         <br>
-        <div style="font-size: 1rem;">
+        <div style="font-size: 1rem; text-align: justify;">
         We are a  multidisciplinary research team at Nanyang Technological University's School of Chemistry, Chemical Engineering and Biotechnology (NTU, CCEB) in Singapore. We work at the interface of chemistry, computer science, data science, artificial intelligence, and automation to develop intelligent, adaptive tools and systems that enable autonomous reaction discovery and informatics.
         </div>
 
