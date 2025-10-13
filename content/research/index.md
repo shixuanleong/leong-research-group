@@ -104,9 +104,9 @@ sections:
             <p>
               We develop chemistry-aware AI systems to guide rational, mechanism-driven reaction discovery and catalyst design beyond black-box predictions. Focusing on heterogeneous electrocatalysts, our research includes:
               <br><br>
-              1) autonomous reasoning over multimodal experimental data, including in operando spectroscopy, electroanalysis, and product characterization, to resolve reaction pathways and kinetics,
+              1) autonomous reasoning over multimodal experimental data to resolve reaction pathways and kinetics,
               <br>
-              2) high-throughput synthesis of model heterogeneous electrocatalysts, such as nanocrystals with tunable surface facets, to study surface-reactivity relationships,
+              2) high-throughput synthesis of model heterogeneous electrocatalysts,
               <br>
               3) development of AI models that perform mechanistic reasoning to generate hypotheses and propose targeted experiments, and
               <br>
