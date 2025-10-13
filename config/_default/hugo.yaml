@@ -5,6 +5,7 @@
 
 title: LEONG Research Group # Website name
 baseURL: 'https://www.leongshixuan.com/' # Website URL
+description: 'Welcome to the LEONG Research Group website!' # Website description
 
 ############################
 ## LANGUAGE
