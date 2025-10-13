@@ -21,7 +21,7 @@ marketing:
     site_type: Organization
     local_business_type: ''
     org_name: ''
-    description: 'Find out more about who we are and what we do!'
+    description: ''
     twitter: ''
   analytics:
     google_analytics: ''
