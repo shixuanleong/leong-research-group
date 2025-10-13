@@ -1,6 +1,7 @@
 ---
 # Leave the homepage title empty to use the site title
 title:
+description: "Welcome to our research group website!"
 date: 2022-10-24
 type: landing
 
