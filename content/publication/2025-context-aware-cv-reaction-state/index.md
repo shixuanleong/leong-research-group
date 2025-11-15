@@ -3,7 +3,7 @@ title:
 
 authors:
 
-date:
+date: 2025-01-01T00:00:00Z
 doi: ''
 
 publishDate: '2025-01-01T00:00:00Z'

@@ -3,7 +3,7 @@ title:
 
 authors:
 
-date:
+date: 2025-07-01T00:00:00Z
 doi: '10.1016/j.matt.2025.102263'
 
 publishDate: '2025-07-01T00:00:00Z'

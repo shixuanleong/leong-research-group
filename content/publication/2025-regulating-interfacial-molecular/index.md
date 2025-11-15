@@ -3,7 +3,7 @@ title:
 
 authors:
 
-date: 
+date: 2025-06-01T00:00:00Z
 doi: '10.1002/ange.202504965'
 
 publishDate: '2025-06-01T00:00:00Z'

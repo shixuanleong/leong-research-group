@@ -3,7 +3,7 @@ title:
 
 authors:
 
-date:
+date: 2018-01-01T00:00:00Z
 doi: '10.1016/j.elecom.2017.11.007'
 
 publishDate: '2018-01-01T00:00:00Z'

@@ -4,7 +4,7 @@ title:
 authors:
 
 
-date:
+date: 2024-06-01T00:00:00Z
 doi: '10.31635/ccschem.024.202303819'
 
 publishDate: '2024-06-01T00:00:00Z'

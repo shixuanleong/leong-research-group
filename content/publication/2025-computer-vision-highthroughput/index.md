@@ -3,7 +3,7 @@ title:
 
 authors:
 
-date:
+date: 2025-08-01T00:00:00Z
 doi: '10.26434/chemrxiv-2025-m6r2j'
 
 publishDate: '2025-08-01T00:00:00Z'
