@@ -12,7 +12,7 @@ publishDate: '2023-11-01T00:00:00Z'
 publication_types: ['article-journal']
 
 publication: '*ACS Nano*'
-publication_short: '**Shi Xuan Leong**, Emily Xi Tan, Xuemei Han, Irvan Luhung, Ngu War Aung, Lam Bang Thanh Nguyen, Si Yan Tan, Haitao Li, In Yee Phang, Stephan Schuster, Xing Yi Ling. <span style="color: #3366CC;">Surface-Enhanced Raman Scattering-Based Surface Chemotaxonomy: Combining Bacteria Extracellular Matrices and Machine Learning for Rapid and Universal Species Identification</span>. *ACS Nano}* (2023).'
+publication_short: '**Shi Xuan Leong**, Emily Xi Tan, Xuemei Han, Irvan Luhung, Ngu War Aung, Lam Bang Thanh Nguyen, Si Yan Tan, Haitao Li, In Yee Phang, Stephan Schuster, Xing Yi Ling. <span style="color: #3366CC;">Surface-Enhanced Raman Scattering-Based Surface Chemotaxonomy: Combining Bacteria Extracellular Matrices and Machine Learning for Rapid and Universal Species Identification</span>. *ACS Nano* (2023).'
 
 abstract: ''
 

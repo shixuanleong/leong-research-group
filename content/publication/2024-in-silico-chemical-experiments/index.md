@@ -12,7 +12,7 @@ publishDate: '2024-07-01T00:00:00Z'
 publication_types: ['article-journal']
 
 publication: '*Advanced Materials*'
-publication_short: 'Abdulrahman Aldossary, Jorge Arturo Campos‐Gonzalez‐Angulo, Sergio Pablo‐García, **Shi Xuan Leong**, Ella Miray Rajaonson, Luca Thiede, Gary Tom, Andrew Wang, Davide Avagliano, Alán Aspuru‐Guzik. <span style="color: #3366CC;">In Silico Chemical Experiments in the Age of AI: From Quantum Chemistry to Machine Learning and Back</span>. *Advanced Materials* ({YEAR}).'
+publication_short: 'Abdulrahman Aldossary, Jorge Arturo Campos‐Gonzalez‐Angulo, Sergio Pablo‐García, **Shi Xuan Leong**, Ella Miray Rajaonson, Luca Thiede, Gary Tom, Andrew Wang, Davide Avagliano, Alán Aspuru‐Guzik. <span style="color: #3366CC;">In Silico Chemical Experiments in the Age of AI: From Quantum Chemistry to Machine Learning and Back</span>. *Advanced Materials* (2024).'
 
 abstract: 
 

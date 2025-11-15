@@ -12,7 +12,7 @@ publishDate: '2024-06-01T00:00:00Z'
 publication_types: ['article-journal']
 
 publication: '*CCS Chemistry*'
-publication_short: 'Haoming Bao, **Shi Xuan Leong**, Jaslyn Ru Ting Chen, Zhenhai Shi, Suli Chen, Yan Lv, Tianxi Liu, In Yee Phang, Xing Yi Ling. <span style="color: #3366CC;">Advancing Energy Systems with In-Situ and Operando Surface-Enhanced Raman Scattering Spectroscopy</span>. *CCS Chemistry* ({YEAR}).'
+publication_short: 'Haoming Bao, **Shi Xuan Leong**, Jaslyn Ru Ting Chen, Zhenhai Shi, Suli Chen, Yan Lv, Tianxi Liu, In Yee Phang, Xing Yi Ling. <span style="color: #3366CC;">Advancing Energy Systems with In-Situ and Operando Surface-Enhanced Raman Scattering Spectroscopy</span>. *CCS Chemistry* (2024).'
 
 abstract: ''
 
