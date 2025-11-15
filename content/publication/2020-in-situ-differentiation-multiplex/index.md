@@ -1,15 +1,9 @@
 ---
-title: "In Situ Differentiation of Multiplex Noncovalent Interactions Using SERS and Chemometrics"
+title:
 
 authors:
-  - leongshixuan
-  - Li Keng Koh
-  - Charlynn Sher Lin Koh
-  - Gia Chuong Phan-Quang
-  - Hiang Kwee Lee
-  - Xing Yi Ling
 
-date: '2020-07-01T00:00:00Z'
+date:
 doi: '10.1021/acsami.0c08053'
 
 publishDate: '2020-07-01T00:00:00Z'
@@ -17,22 +11,17 @@ publishDate: '2020-07-01T00:00:00Z'
 publication_types: ['article-journal']
 
 publication: '*ACS Applied Materials & Interfaces*'
-publication_short: ''
+publication_short: '**Shi Xuan Leong**, Li Keng Koh, Charlynn Sher Lin Koh, Gia Chuong Phan-Quang, Hiang Kwee Lee, Xing Yi Ling. <span style="color: #3366CC;">In Situ Differentiation of Multiplex Noncovalent Interactions Using SERS and Chemometrics</span>. *ACS Applied Materials & Interfaces* (2020).'
 
 abstract: ''
 
 summary: ''
 
 tags:
-  - SERS
-  - noncovalent interactions
-  - chemometrics
 
 featured: false
 
 links:
-  - name: Publisher
-    url: https://pubs.acs.org/doi/10.1021/acsami.0c08053
 
 url_pdf: ''
 url_code: ''

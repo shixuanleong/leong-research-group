@@ -1,14 +1,10 @@
 ---
-title: "MERMaid: Universal multimodal mining of chemical reactions from PDFs using vision-language models"
+title:
 
 # Authors
 authors:
-  - leongshixuan
-  - Sergio Pablo-García
-  - Brandon Wong
-  - Alán Aspuru-Guzik
 
-date: '2025-07-01T00:00:00Z'
+date:
 doi: '10.1016/j.matt.2025.102331'
 
 # Schedule page publish date (NOT publication's date).
@@ -21,7 +17,7 @@ publication_types: ['article-journal']
 
 # Publication name and optional abbreviated publication name.
 publication: '*Matter*'
-publication_short: ''
+publication_short: '**Shi Xuan Leong**, Sergio Pablo-García, Brandon Wong, Alán Aspuru-Guzik. <span style="color: #3366CC;">MERMaid: Universal multimodal mining of chemical reactions from PDFs using vision-language models</span>. *Matter* (2025).'
 
 abstract: ''
 
@@ -29,22 +25,11 @@ abstract: ''
 summary: ''
 
 tags:
-  - data mining
-  - database
-  - digitization
-  - electro-organic synthesis
-  - knowledge graphs
-  - organic synthesis
-  - photocatalysis
-  - retrieval-augmented generation
-  - vision large language models
 
 featured: true
 
 # Custom links (optional)
 links:
-  - name: Publisher
-    url: https://www.cell.com/matter/abstract/S2590-2385(25)00374-1
 
 url_pdf: ''
 url_code: ''

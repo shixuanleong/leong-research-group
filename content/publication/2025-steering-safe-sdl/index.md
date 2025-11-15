@@ -1,19 +1,9 @@
 ---
-title: "Steering towards safe self-driving laboratories"
+title:
 
 authors:
-  - leongshixuan
-  - Caleb E. Griesbach
-  - Rui Zhang
-  - Kourosh Darvish
-  - Yuchi Zhao
-  - Abhijoy Mandal
-  - Yunheng Zou
-  - Han Hao
-  - Varinia Bernales
-  - Alán Aspuru-Guzik
 
-date: '2025-08-01T00:00:00Z'
+date: 
 doi: '10.1038/s41570-025-00747-x'
 
 publishDate: '2025-08-01T00:00:00Z'
@@ -21,23 +11,17 @@ publishDate: '2025-08-01T00:00:00Z'
 publication_types: ['article-journal']
 
 publication: '*Nature Reviews Chemistry*'
-publication_short: ''
+publication_short: '**Shi Xuan Leong**, Caleb E. Griesbach, Rui Zhang, Kourosh Darvish, Yuchi Zhao, Abhijoy Mandal, Yunheng Zou, Han Hao, Varinia Bernales, Alán Aspuru-Guzik. <span style="color: #3366CC;">Steering towards safe self-driving laboratories</span>. *Nature Reviews Chemistry* (2025).'
 
 abstract: ''
 
 summary: ''
 
 tags:
-  - self-driving laboratories
-  - automation
-  - safety
-  - Perspective
 
 featured: true
 
 links:
-  - name: Publisher
-    url: https://www.nature.com/articles/s41570-025-00747-x
 
 url_pdf: ''
 url_code: ''

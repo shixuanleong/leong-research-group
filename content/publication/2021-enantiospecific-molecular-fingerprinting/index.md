@@ -1,16 +1,10 @@
 ---
-title: "Enantiospecific Molecular Fingerprinting Using Potential-Modulated Surface-Enhanced Raman Scattering to Achieve Label-Free Chiral Differentiation"
+title:
 
 authors:
-  - leongshixuan
-  - Charlynn Sher Lin Koh
-  - Howard Yi Fan Sim
-  - Yih Hong Lee
-  - Xuemei Han
-  - Gia Chuong Phan-Quang
-  - Xing Yi Ling
 
-date: '2021-01-01T00:00:00Z'
+
+date: 
 doi: '10.1021/acsnano.0c09670'
 
 publishDate: '2021-01-01T00:00:00Z'
@@ -18,23 +12,17 @@ publishDate: '2021-01-01T00:00:00Z'
 publication_types: ['article-journal']
 
 publication: '*ACS Nano*'
-publication_short: ''
+publication_short: '**Shi Xuan Leong**, Charlynn Sher Lin Koh, Howard Yi Fan Sim, Yih Hong Lee, Xuemei Han, Gia Chuong Phan-Quang, Xing Yi Ling. <span style="color: #3366CC;">Enantiospecific Molecular Fingerprinting Using Potential-Modulated Surface-Enhanced Raman Scattering to Achieve Label-Free Chiral Differentiation</span>. *ACS Nano* (2021).'
 
 abstract: ''
 
 summary: ''
 
 tags:
-  - SERS
-  - chiral differentiation
-  - enantiomers
-  - electrochemistry
 
 featured: false
 
 links:
-  - name: Publisher
-    url: https://pubs.acs.org/doi/10.1021/acsnano.0c09670
 
 url_pdf: ''
 url_code: ''

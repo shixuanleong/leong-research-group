@@ -1,15 +1,10 @@
 ---
-title: "A study of the effect of sonication time on the catalytic performance of layered WS₂ from various sources"
+title:
 
 authors:
-  - leongshixuan
-  - Carmen C. Mayorga-Martinez
-  - Zdeněk Sofer
-  - Jan Luxa
-  - Shu Min Tan
-  - Martin Pumera
 
-date: '2017-01-01T00:00:00Z'
+
+date:
 doi: '10.1039/C6CP07385A'
 
 publishDate: '2017-01-01T00:00:00Z'
@@ -17,23 +12,17 @@ publishDate: '2017-01-01T00:00:00Z'
 publication_types: ['article-journal']
 
 publication: '*Physical Chemistry Chemical Physics*'
-publication_short: ''
+publication_short: '**Shi Xuan Leong**, Carmen C. Mayorga-Martinez, Zdeněk Sofer, Jan Luxa, Shu Min Tana, Martin Pumera. <span style="color: #3366CC;">A study of the effect of sonication time on the catalytic performance of layered WS₂ from various sources</span>. *Physical Chemistry Chemical Physics* (2017).'
 
-abstract: 'Sonication time affects the HER electrocatalytic performance across WS2 materials from different sources but not their HET performance. WS2 is a transition metal dichalcogenide (TMD) with many potential applications from catalysis to sensing, and is of interest both in its bulk and monolayer forms. There is discrepancy in the literature on the reported electrocatalytic effect of layered WS2. In this study, we examine two issues: the influence of the WS2 source and the effect of a common agitation technique via ultrasonication on the observed electrocatalysis.'
+abstract: ''
 
 summary: ''
 
 tags:
-  - tungsten disulfide
-  - electrocatalysis
-  - hydrogen evolution reaction
-  - 2D materials
 
 featured: false
 
 links:
-  - name: Publisher
-    url: https://xlink.rsc.org/?DOI=C6CP07385A
 
 url_pdf: ''
 url_code: ''

@@ -1,19 +1,10 @@
 ---
-title: "In Silico Chemical Experiments in the Age of AI: From Quantum Chemistry to Machine Learning and Back"
+title: 
 
 authors:
-  - Abdulrahman Aldossary
-  - Jorge Arturo Campos‐Gonzalez‐Angulo
-  - Sergio Pablo‐García
-  - leongshixuan
-  - Ella Miray Rajaonson
-  - Luca Thiede
-  - Gary Tom
-  - Andrew Wang
-  - Davide Avagliano
-  - Alán Aspuru‐Guzik
 
-date: '2024-07-01T00:00:00Z'
+
+date: 
 doi: '10.1002/adma.202402369'
 
 publishDate: '2024-07-01T00:00:00Z'
@@ -21,23 +12,18 @@ publishDate: '2024-07-01T00:00:00Z'
 publication_types: ['article-journal']
 
 publication: '*Advanced Materials*'
-publication_short: ''
+publication_short: 'Abdulrahman Aldossary, Jorge Arturo Campos‐Gonzalez‐Angulo, Sergio Pablo‐García, **Shi Xuan Leong**, Ella Miray Rajaonson, Luca Thiede, Gary Tom, Andrew Wang, Davide Avagliano, Alán Aspuru‐Guzik. <span style="color: #3366CC;">In Silico Chemical Experiments in the Age of AI: From Quantum Chemistry to Machine Learning and Back</span>. *Advanced Materials* ({YEAR}).'
 
-abstract: 'Computational chemistry is an indispensable tool for understanding molecules and predicting chemical properties. However, traditional computational methods face significant challenges due to the difficulty of solving the Schrödinger equations and the increasing computational cost with the size of the molecular system. In response, there has been a surge of interest in leveraging artificial intelligence (AI) and machine learning (ML) techniques to in silico experiments. Integrating AI and ML into computational chemistry increases the scalability and speed of the exploration of chemical space. However, challenges remain, particularly regarding the reproducibility and transferability of ML models. This review highlights the evolution of ML in learning from, complementing, or replacing traditional computational chemistry for energy and property predictions.'
+abstract: 
 
 summary: ''
 
 tags:
-  - quantum chemistry
-  - machine learning
-  - artificial intelligence
-  - computational chemistry
+
 
 featured: true
 
 links:
-  - name: Publisher
-    url: https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202402369
 
 url_pdf: ''
 url_code: ''

@@ -1,41 +1,28 @@
 ---
-title: "Machine Learning-Based SERS Chemical Space for Two-Way Prediction of Structures and Spectra of Untrained Molecules"
+title:
 
 authors:
-  - Jaslyn Ru Ting Chen
-  - Emily Xi Tan
-  - Jingxiang Tang
-  - leongshixuan
-  - Sean Kai Xun Hue
-  - Chi Seng Pun
-  - In Yee Phang
-  - Xing Yi Ling
 
-date: '2025-02-01T00:00:00Z'
+
+date: 
 doi: '10.1021/jacs.4c15804'
 
 publishDate: '2025-02-01T00:00:00Z'
 
 publication_types: ['article-journal']
 
-publication: '*Journal of the American Chemical Society*'
-publication_short: ''
+publication: 
+publication_short: 'Jaslyn Ru Ting Chen, Emily Xi Tan, Jingxiang Tang, **Shi Xuan Leong**, Sean Kai Xun Hue, Chi Seng Pun, In Yee Phang, Xing Yi Ling. <span style="color: #3366CC;">Machine Learning-Based SERS Chemical Space for Two-Way Prediction of Structures and Spectra of Untrained Molecules</span>. *Journal of the American Chemical Society* (2025).'
 
 abstract: ''
 
 summary: ''
 
 tags:
-  - SERS
-  - machine learning
-  - spectroscopy
-  - chemical structure prediction
 
 featured: true
 
 links:
-  - name: Publisher
-    url: https://pubs.acs.org/doi/10.1021/jacs.4c15804
 
 url_pdf: ''
 url_code: ''

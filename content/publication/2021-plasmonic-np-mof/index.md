@@ -1,15 +1,9 @@
 ---
-title: "Plasmonic Nanoparticle-Metal–Organic Framework (NP–MOF) Nanohybrid Platforms for Emerging Plasmonic Applications"
+title: 
 
 authors:
-  - Charlynn Sher Lin Koh
-  - Howard Yi Fan Sim
-  - leongshixuan
-  - Siew Kheng Boong
-  - Carice Chong
-  - Xing Yi Ling
 
-date: '2021-05-01T00:00:00Z'
+date: 
 doi: '10.1021/acsmaterialslett.1c00047'
 
 publishDate: '2021-05-01T00:00:00Z'
@@ -17,23 +11,17 @@ publishDate: '2021-05-01T00:00:00Z'
 publication_types: ['article-journal']
 
 publication: '*ACS Materials Letters*'
-publication_short: ''
+publication_short: 'Charlynn Sher Lin Koh, Howard Yi Fan Sim, **Shi Xuan Leong**, Siew Kheng Boong, Carice Chong, Xing Yi Ling. <span style="color: #3366CC;">Plasmonic Nanoparticle-Metal–Organic Framework (NP–MOF) Nanohybrid Platforms for Emerging Plasmonic Applications</span>. *ACS Materials Letters* (2021).'
 
 abstract: ''
 
 summary: ''
 
 tags:
-  - plasmonics
-  - metal-organic frameworks
-  - nanohybrids
 
 featured: false
 
 links:
-  - name: Publisher
-    url: https://pubs.acs.org/doi/10.1021/acsmaterialslett.1c00047
-
 url_pdf: ''
 url_code: ''
 url_dataset: ''

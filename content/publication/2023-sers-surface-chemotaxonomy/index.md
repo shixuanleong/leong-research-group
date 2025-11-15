@@ -1,20 +1,10 @@
 ---
-title: "Surface-Enhanced Raman Scattering-Based Surface Chemotaxonomy: Combining Bacteria Extracellular Matrices and Machine Learning for Rapid and Universal Species Identification"
+title: 
 
 authors:
-  - leongshixuan
-  - Emily Xi Tan
-  - Xuemei Han
-  - Irvan Luhung
-  - Ngu War Aung
-  - Lam Bang Thanh Nguyen
-  - Si Yan Tan
-  - Haitao Li
-  - In Yee Phang
-  - Stephan Schuster
-  - Xing Yi Ling
 
-date: '2023-11-01T00:00:00Z'
+
+date: 
 doi: '10.1021/acsnano.3c09101'
 
 publishDate: '2023-11-01T00:00:00Z'
@@ -22,23 +12,17 @@ publishDate: '2023-11-01T00:00:00Z'
 publication_types: ['article-journal']
 
 publication: '*ACS Nano*'
-publication_short: ''
+publication_short: '**Shi Xuan Leong**, Emily Xi Tan, Xuemei Han, Irvan Luhung, Ngu War Aung, Lam Bang Thanh Nguyen, Si Yan Tan, Haitao Li, In Yee Phang, Stephan Schuster, Xing Yi Ling. <span style="color: #3366CC;">Surface-Enhanced Raman Scattering-Based Surface Chemotaxonomy: Combining Bacteria Extracellular Matrices and Machine Learning for Rapid and Universal Species Identification</span>. *ACS Nano}* (2023).'
 
 abstract: ''
 
 summary: ''
 
 tags:
-  - SERS
-  - bacteria identification
-  - machine learning
-  - chemotaxonomy
 
 featured: false
 
 links:
-  - name: Publisher
-    url: https://pubs.acs.org/doi/10.1021/acsnano.3c09101
 
 url_pdf: ''
 url_code: ''
