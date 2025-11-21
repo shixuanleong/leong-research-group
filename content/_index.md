@@ -9,6 +9,13 @@ sections:
   - block: hero
     content:
       title: |
+         <style>
+         .hero-media img {
+           max-height: 300px !important;
+           width: auto !important;
+           object-fit: cover;
+         }
+         </style>
          <div style="text-align: center;">LEONG Research Group</div>
       image:
         filename: welcome.jpg
@@ -26,7 +33,7 @@ sections:
           <div style="text-align: center;">
             <a href="research#digital-transformation" style="position: relative; display: block;">
               <img src="media/data_digitalization.jpg" alt="Data Digitalization" style="width: 100%; height: auto; border-radius: 8px; transition: transform 0.3s ease;">
-              <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); color: white; font-size: 1rem; font-weight: bold; text-shadow: 2px 2px 8px rgba(0,0,0,0.8); white-space: nowrap;background: rgba(0,0,0,0.5); padding: 1px 10px;">
+              <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); color: white; font-weight: bold; text-shadow: 2px 2px 8px rgba(0,0,0,0.8); white-space: nowrap;background: rgba(0,0,0,0.5); padding: 1px 10px;">
                 Data Digitalization
               </div>
             </a>
@@ -34,7 +41,7 @@ sections:
           <div style="text-align: center;">
             <a href="research#electrochemistry" style="position: relative; display: block;">
               <img src="media/digitial-electrosynthesis.jpg" alt="Digital Electrosynthesis" style="width: 100%; height: auto; border-radius: 8px; transition: transform 0.3s ease;">
-              <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); color: white; font-size: 1rem; font-weight: bold; text-shadow: 2px 2px 8px rgba(0,0,0,0.8); white-space: nowrap; background: rgba(0,0,0,0.5); padding: 1px 10px;">
+              <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); color: white; font-weight: bold; text-shadow: 2px 2px 8px rgba(0,0,0,0.8); white-space: nowrap; background: rgba(0,0,0,0.5); padding: 1px 10px;">
                 Digital Electrosynthesis
               </div>
             </a>
@@ -42,7 +49,7 @@ sections:
           <div style="text-align: center;">
             <a href="research#automation" style="position: relative; display: block;">
               <img src="media/self-driving-laboratories.jpg" alt="Mechanism-Guided Self-Driving Laboratories" style="width: 100%; height: auto; border-radius: 8px; transition: transform 0.3s ease;">
-              <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); color: white; font-size: 1rem; font-weight: bold; text-shadow: 2px 2px 8px rgba(0,0,0,0.8); text-align: center; background: rgba(0,0,0,0.5); padding: 1px 10px; width: 95%; line-height: 1.2;">
+              <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); color: white; font-weight: bold; text-shadow: 2px 2px 8px rgba(0,0,0,0.8); text-align: center; background: rgba(0,0,0,0.5); padding: 1px 10px; width: 95%; line-height: 1.2;">
                 Mechanism-Guided Self-Driving Laboratories
               </div>
             </a>
@@ -66,8 +73,8 @@ sections:
     content:
       title: "We are recruiting! 👩🏻‍🔬🧑🏻‍🔬"
       text: |
-        <div style="text-align: center; font-size: 1rem; padding: 20px;">
-        We are recruiting graduate students for the Aug 2026 and Jan 2027 intake. We also welcome applications from undergraduate researchers and postdocs to start as early as spring 2026! Learn more <a href="contact">here</a>! 
+        <div style="text-align: center; padding: 20px;">
+        We are recruiting graduate students for the Aug 2026 and Jan 2027 intake. We also welcome applications from undergraduate researchers and postdocs to start as early as spring 2026! Learn more <a href="contact">here</a>!
         </div>
     design:
       columns: '1'
@@ -115,18 +122,18 @@ sections:
   #       padding: ['20px', '0', '20px', '0']
   #     css_class: fullscreen
 
-  # - block: collection
-  #   content:
-  #     title: Latest Preprints
-  #     text: ""
-  #     count: 5
-  #     filters:
-  #       folders:
-  #         - publication
-  #       publication_type: 'article'
-  #   design:
-  #     view: citation
-  #     columns: '1'
+  - block: collection
+    content:
+      title: Latest Publications
+      text: ""
+      count: 5
+      filters:
+        folders:
+          - publication
+        publication_type: 'article'
+    design:
+      view: citation
+      columns: '1'
 
   # - block: markdown
   #   content:
@@ -137,12 +144,12 @@ sections:
   #   design:
   #     columns: '1'
 
-  - block: markdown
-    content:
-      title: Latest Publications
-      subtitle:
-      text: |
-        <div style="text-align: center; font-size: 1rem; padding: 20px;">Watch this space!</div>
-    design:
-      columns: '1'
+  # - block: markdown
+  #   content:
+  #     title: Latest Publications
+  #     subtitle:
+  #     text: |
+  #       <div style="text-align: center; padding: 20px;">Watch this space!</div>
+  #   design:
+  #     columns: '1'
 ---

@@ -12,11 +12,11 @@ sections:
         filename: chemia_sapiens.jpg
       text: |
         <br>
-        <div style="font-size: 1.1rem; margin-bottom: 30px;">
+        <div style="margin-bottom: 30px;">
         We are a global, multi-institution initiative to unlock hidden value of legacy scientific data into structured, interoperable knowledge.
         </div>
         <div style="text-align: center;">
-          <a href="https://chemia-sapiens.com/" class="btn btn-primary btn-lg" target="_blank" rel="noopener" style="padding: 12px 30px; font-size: 1.1rem;">Find out more</a>
+          <a href="https://chemia-sapiens.com/" class="btn btn-primary btn-lg" target="_blank" rel="noopener" style="padding: 12px 30px;">Find out more</a>
         </div>
     design:
       spacing:

@@ -67,7 +67,7 @@ user_groups:
 
 ## Experience
 
-<div style="font-size: 18px;">
+<div>
 
 - **Assistant Professor**, School of Chemistry, Chemical Engineering and Biotechnology, Nanyang Technological University, Oct 2025 - Present
 - **Postdoctoral Scholar**, University of Toronto, 2023 - 2025 (Advisor: Prof. Alán Aspuru-Guzik)
@@ -78,7 +78,7 @@ user_groups:
 
 ## Biography
 
-<div style="text-align: justify; font-size: 18px;">
+<div style="text-align: justify;">
 <p>Shi Xuan completed her B.Sc. in Chemistry under the CN Yang Scholars Programme at Nanyang Technological University (NTU), Singapore, where she undertook research in multiple laboratories, including those of Prof. Soo Han Sen, Prof. Martin Pumera and Prof. Frank Marken (University of Bath). She was also awarded the Singapore-MIT Undergraduate Research Fellowship (SMURF) in 2016.</p>
 
 <p>She went on to pursue her Ph.D. in Chemistry at NTU under the supervision of Prof. Ling Xing Yi, supported by the Nanyang President's Graduate Scholarship. Her doctoral research focused on developing surface-enhanced Raman scattering (SERS) platforms for detection at the nano-bio interface.</p>

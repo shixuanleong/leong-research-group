@@ -132,7 +132,6 @@ sections:
         }
 
         .research-text p {
-          font-size: 16px;
           line-height: 1.6;
           text-align: justify;
         }
@@ -144,12 +143,8 @@ sections:
             margin: 20px auto !important;
           }
 
-          .research-text h2 {
-            font-size: 24px !important;
-          }
-
           .research-text p {
-            font-size: 15px !important;
+            line-height: 1.6;
           }
         }
         </style>

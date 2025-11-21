@@ -9,7 +9,7 @@ sections:
     content:
       title: Gallery
       text: |
-        <div style="text-align: center; font-size: 1.2rem; padding: 10px 0 40px 0; color: #666;">
+        <div style="text-align: center; padding: 10px 0 40px 0; color: #666;">
           Watch this space for some behind the scenes of Leong Research Group in action!
         </div>
 
