@@ -1,22 +1,51 @@
-// Custom Color Theme - Deep Purple (#5B2C6F) Background
+// Custom Color Theme - Professional Pink & Teal
 :root {
-  --brand-purple: #ED1556;
-  --brand-purple-light: #C14685;
-  --brand-purple-dark: #6E1E4F;
-  --accent-teal: #008B9C;
-  --accent-teal-light: #00A5B8;
+  // Brand Colors (Primary Pink - Unchanged)
+  // --brand-purple: #ED1556;
+  --brand-purple: #FF1B68;
+  --brand-purple-light: #F94D7C;
+  --brand-purple-dark: #C71250;
+
+  // Accent Colors (Enhanced Teal)
+  --accent-teal: #0891A6;
+  --accent-teal-light: #10B4C8;
+
+  // Professional Gray Scale
+  --text-primary: #2D3748;
+  --text-secondary: #4A5568;
+  --text-muted: #718096;
+  --border-color: #E2E8F0;
 }
 
 // ==========================================
-// HEADER / NAVIGATION BAR - Purple Background
+// HEADER / NAVIGATION BAR - Pink Gradient Background
 // ==========================================
 .navbar {
-  background-color: var(--brand-purple) !important;
+  background: linear-gradient(135deg, var(--brand-purple) 0%, var(--brand-purple-dark) 100%) !important;
   border-bottom: none;
   display: flex;
   align-items: center;
   justify-content: center;
   min-height: auto !important;
+  position: relative;
+
+  // Force ALL nested elements to have transparent backgrounds
+  * {
+    background-color: transparent !important;
+  }
+
+  // Ensure gradient stays on navbar itself
+  &::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background: linear-gradient(135deg, var(--brand-purple) 0%, var(--brand-purple-dark) 100%);
+    z-index: -1;
+    pointer-events: none;
+  }
 }
 
 // Center the navigation items container
@@ -104,13 +133,33 @@
 
 // Mobile dropdown menu (hamburger menu)
 .navbar-collapse {
-  background-color: var(--brand-purple) !important;
+  background: linear-gradient(135deg, var(--brand-purple) 0%, var(--brand-purple-dark) 100%) !important;
 
   // Add padding for mobile menu
   @media (max-width: 991px) {
     padding: 1rem;
     margin-top: 0.5rem;
     border-radius: 4px;
+  }
+}
+
+// Fix for main-menu-item pink strip - DESKTOP ONLY
+@media (min-width: 992px) {
+  .main-menu-item,
+  .navbar-collapse.main-menu-item,
+  .navbar .main-menu-item {
+    background: none !important;
+    background-color: transparent !important;
+    background-image: none !important;
+  }
+}
+
+// Mobile dropdown menu needs visible gradient background
+@media (max-width: 991px) {
+  .navbar-collapse.show,
+  .navbar-collapse.collapsing,
+  .main-menu-item {
+    background: linear-gradient(135deg, var(--brand-purple) 0%, var(--brand-purple-dark) 100%) !important;
   }
 }
 
@@ -142,11 +191,11 @@
 }
 
 // ==========================================
-// FOOTER - Purple Background
+// FOOTER - Purple Gradient Background
 // ==========================================
 .page-footer,
 footer {
-  background-color: var(--brand-purple) !important;
+  background: linear-gradient(135deg, var(--brand-purple) 0%, var(--brand-purple-dark) 100%) !important;
   color: rgba(255, 255, 255, 0.95) !important;
   padding: 0.5rem 0 !important;
   margin: 0 !important;
@@ -173,6 +222,19 @@ footer {
   }
 }
 
+// Fix for footer nested elements covering gradient (similar to navbar fix)
+.site-footer,
+.page-footer p,
+.page-footer div,
+footer p,
+footer div,
+.powered-by,
+.copyright-license-text {
+  background: none !important;
+  background-color: transparent !important;
+  background-image: none !important;
+}
+
 // ==========================================
 // BODY CONTENT - Neutral colors with teal accents
 // ==========================================
@@ -188,9 +250,15 @@ main a:not(.btn):not(.nav-link) {
   }
 }
 
-// Headings - Keep neutral dark gray
+// Headings - Professional dark gray
 h1, h2, h3, h4, h5, h6 {
-  color: #333 !important;
+  color: var(--text-primary) !important;
+  font-weight: 600;
+}
+
+// Body text - Softer gray for better readability
+body, p {
+  color: var(--text-secondary);
 }
 
 // Buttons - Purple theme
@@ -221,10 +289,10 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 // ==========================================
-// ALTERNATING SECTION BACKGROUNDS - Purple Tint
+// ALTERNATING SECTION BACKGROUNDS - Professional Neutral
 // ==========================================
 :root {
-  --section-bg-light-purple: #FEF5F8;  // Very light lavender tint
+  --section-bg-light: #F8F9FA;  // Soft neutral gray - professional
   --section-bg-white: #FFFFFF;
 }
 
@@ -233,7 +301,7 @@ section,
 .home-section,
 .wg-block {
   &:nth-of-type(even) {
-    background-color: var(--section-bg-light-purple) !important;
+    background-color: var(--section-bg-light) !important;
   }
 
   &:nth-of-type(odd) {

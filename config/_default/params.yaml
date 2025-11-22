@@ -11,7 +11,7 @@ i_am_a_sponsor: true
 appearance:
   theme_day: minimal
   theme_night:
-  font: native
+  font: inter
   font_size: S
 
 # SEO
