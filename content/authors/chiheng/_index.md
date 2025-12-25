@@ -5,17 +5,17 @@ _build:
   list: always
 
 # Display name
-title: Wei Qianrun
+title: Chi Heng
 
 # Full Name (for SEO)
-first_name: Qianrun
-last_name: Wei
+first_name: Heng
+last_name: Chi
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Master Student (Joined Nov 2025)
+role: Student Volunteer (Joined Dec 2025)
 
 # Organizations/Affiliations
 organizations:
