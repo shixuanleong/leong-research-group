@@ -5,10 +5,10 @@ _build:
   list: always
 
 # Display name
-title: SITI NUR' AISYAHMIRA BINTE MD ROSLI
+title: Siti Nur' Aisyahmira Binte Md Rosli
 
 # Full Name (for SEO)
-first_name: SITI NUR' AISYAHMIRA BINTE MD ROSLI
+first_name: Siti Nur' Aisyahmira Binte Md Rosli
 last_name: 
 
 # Is this the primary user of the site?
