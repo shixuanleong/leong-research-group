@@ -15,7 +15,7 @@ last_name:
 superuser: false
 
 # Role/position
-role: Master Student (Joined Mar 2026)
+role: Master's Student (Joined Mar 2026)
 
 # Organizations/Affiliations
 organizations:

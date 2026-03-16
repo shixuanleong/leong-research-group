@@ -15,7 +15,7 @@ last_name: Du
 superuser: false
 
 # Role/position
-role: Master Student (Joined Nov 2025)
+role: Master's Student (Joined Nov 2025)
 
 # Organizations/Affiliations
 organizations:
