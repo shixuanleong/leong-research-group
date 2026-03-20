@@ -15,7 +15,7 @@ last_name: Choo
 superuser: false
 
 # Role/position
-role: Undegraduate (Mini-FYP, Joined Jan 2026)
+role: Mini-FYP (Joined Jan 2026)
 
 # Organizations/Affiliations
 organizations:
