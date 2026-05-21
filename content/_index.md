@@ -74,7 +74,7 @@ sections:
       title: "We are recruiting! 👩🏻‍🔬🧑🏻‍🔬"
       text: |
         <div style="text-align: center; padding: 20px;">
-        We are recruiting graduate students for the Aug 2026 and Jan 2027 intake. We also welcome applications from undergraduate researchers and postdocs to start as early as spring 2026! Learn more <a href="contact">here</a>!
+        We have a fully funded PhD position in Chemistry for Jan 2027 intake for Singaporeans or Singaporean PRs. Learn more <a href="contact">here</a>!
         </div>
     design:
       columns: '1'
