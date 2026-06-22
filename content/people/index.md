@@ -17,11 +17,20 @@ sections:
           - Undergraduates
           - Administration
           - Visitors
-          - Alumni
       sort_by: Params.last_name
       sort_ascending: true
     design:
       show_interests: false
       show_role: true
       show_social: true
+  - block: markdown
+    content:
+      title: Alumni
+      text: |
+        - **Ning Ziqing** (Master's student)
+        - **Siti Nur' Aisyahmira Binte Md Rosli** (Master's student)
+        - **Vernis Sim** (Master's student)
+        - **Owen Law** (Visiting undergraduate from U. of Warwick)
+    design:
+      columns: '1'
 ---
