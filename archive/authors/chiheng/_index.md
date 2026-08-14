@@ -5,17 +5,17 @@ _build:
   list: always
 
 # Display name
-title: Li Xinyu
+title: Chi Heng
 
 # Full Name (for SEO)
-first_name: Xinyu
-last_name: Li
+first_name: Heng
+last_name: Chi
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: PhD student (Joined Aug 2026)
+role: Master's (Nov 2025 - Aug 2026)
 
 # Organizations/Affiliations
 organizations:
@@ -41,6 +41,6 @@ highlight_name: false
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
-user_groups:
-  - Grad Students
+# user_groups:
+#   - Grad Students
 ---
