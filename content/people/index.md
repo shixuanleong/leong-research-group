@@ -27,10 +27,12 @@ sections:
     content:
       title: Alumni
       text: |
-        - **Ning Ziqing** (Master's student)
-        - **Siti Nur' Aisyahmira Binte Md Rosli** (Master's student)
-        - **Vernis Sim** (Master's student)
-        - **Owen Law** (Visiting undergraduate from U. of Warwick)
+        - **Ning Ziqing** (Master's student, Nov 2025-Jun 2026)
+        - **Siti Nur' Aisyahmira Binte Md Rosli** (Master's student, Mar 2026-Jun 2026)
+        - **Vernis Sim** (Master's student, Mar 2026-Jun 2026)
+        - **Owen Law** (Visiting undergraduate from U. of Warwick, Mar 2026- May 2026 )
+        - **Du Huajin** (Master's student, Nov 2025 - Jun 2026)
+        - **Choo Shao Rong** (Mini-FYP student, Jan 2026 - Aug 2026)
     design:
       columns: '1'
 ---

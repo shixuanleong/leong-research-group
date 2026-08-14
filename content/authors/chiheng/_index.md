@@ -5,17 +5,17 @@ _build:
   list: always
 
 # Display name
-title: Chi Heng
+title: Li Xinyu
 
 # Full Name (for SEO)
-first_name: Heng
-last_name: Chi
+first_name: Xinyu
+last_name: Li
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Student Volunteer (Joined Dec 2025)
+role: PhD student (Joined Aug 2026)
 
 # Organizations/Affiliations
 organizations:
